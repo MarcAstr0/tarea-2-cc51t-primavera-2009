@@ -1,0 +1,423 @@
+NIC Chile
+
+               NIC Chile: Registro de Nombres del Dominio CL
+
+                 Reglamentación para el funcionamiento del
+                    Registro de Nombres del Dominio CL
+
+   1. El  Registro  de  Nombres  del  Dominio  CL,  denominado  NIC Chile
+      (Network   Information   Center  Chile),  es  administrado  por  el
+      Departamento  de  Ciencias  de  la Computación de la Universidad de
+      Chile  por  [1]delegación  de  la  IANA  (Internet Assigned Numbers
+      Authority),  de acuerdo a los principios contenidos en [2]RFC 1591:
+      Domain Name System Structure and Delegation.
+   2. Se  deja  expresa  constancia  de que NIC Chile actúa únicamente en
+      calidad  de  ente  coordinador delegado de IANA con el propósito de
+      llevar  el  registro  de  nombres  de  dominio.  No tiene ni tendrá
+      facultades  jurisdiccionales ni otras prerrogativas ni obligaciones
+      que las que en esta Reglamentación se expresan.
+   3. NIC Chile mantendrá un servicio de información web en
+            [3]http://www.nic.cl
+
+      La  información  publicada  en  ese lugar se entenderá conocida por
+      todos  los  usuarios  del Registro de Nombres del Dominio CL, y NIC
+      Chile   no   estará   obligado  a  realizar  ningún  otro  tipo  de
+      publicación.
+   4. NIC  Chile  podrá  realizar  las funciones descritas en la presente
+      Reglamentación  ya  sea por sí mismo o por terceros autorizados por
+      él.
+   5. NIC  Chile estará facultado para cobrar tarifas por la inscripción,
+      revalidación, [4]renovación, modificación, eliminación o mantención
+      de  un  nombre  de  dominio.  La  tabla  de  [5]tarifas vigentes se
+      publicará en el servidor web del Dominio CL.
+      Será   requisito   esencial   para  mantener  la  vigencia  de  una
+      inscripción  de  nombre de dominio el pagar oportunamente todas las
+      tarifas que sean aplicables.
+      De las inscripciones
+   6. Por el hecho de solicitar la inscripción, transferencia, revocación
+      o  con  ocasión  de  la  renovación de un nombre de dominio bajo el
+      Dominio  CL,  se entiende que el solicitante o nuevo titular, según
+      corresponda:
+         + conoce   el  funcionamiento  técnico  del  Internet,  sabe  el
+           significado  de  los términos y palabras que se utilizan en su
+           gestión  y  conoce  los  caracteres permitidos en un nombre de
+           dominio.  Las  reglas de sintaxis para un nombre de dominio en
+           .cl están publicadas en
+           [6]http://www.nic.cl/CL-sintaxis-IDN.html.
+           Para  todos  los  efectos  relacionados  con  la resolución de
+           conflictos,  se  considerará  que  un  nombre  de  dominio IDN
+           (Internationalized   Domain   Name)   es  equivalente  con  su
+           respectiva codificación ACE (ASCII-Compatible Encoding).
+         + acepta  expresamente,  suscribe  y  se  compromete  a acatar y
+           regirse  por  todas  las  normas  contenidas  en  el  presente
+           documento, sin reservas de ninguna especie.
+         + acepta  que  los datos personales que entrega para los efectos
+           de   registro   sean  informados  a  requerimiento  formal  de
+           cualquier  autoridad  administrativa  o  judicial, incluido el
+           arbitraje  por  la  asignación  o  revocación  de un nombre de
+           dominio,  aún  después  que la solicitud o registro respectivo
+           hubieran sido eliminados.
+         + libera de cualquier responsabilidad a la Universidad de Chile,
+           al Departamento de Ciencias de la Computación, a NIC Chile y a
+           sus   funcionarios   y   asesores,   por   las   obligaciones,
+           responsabilidades  y  otros  actos  o  hechos  que  le generen
+           obligaciones    al    solicitante,   renunciando   expresa   y
+           anticipadamente a las acciones legales.
+      La  Reglamentación  de  NIC  Chile  y  sus  anexos  constituyen las
+      condiciones  generales  de  contratación de un nombre de dominio en
+      .cl.
+   7. Podrán solicitar inscripción de nombres de dominios bajo el Dominio
+      CL las siguientes personas:
+        a. Personas   naturales  actualmente  domiciliadas  o  legalmente
+           avecindadas en la República de Chile.
+        b. Personas   Jurídicas  Públicas  o  Privadas,  Corporaciones  y
+           entidades de Derecho Público o Privado constituídas en Chile o
+           debidamente autorizadas para operar en Chile.
+      Las  personas  naturales o jurídicas que no residan en Chile podrán
+      solicitar  inscripciones  de  dominios  haciéndose  representar por
+      alguna persona con domicilio en el país. Este representante actuará
+      como   Contacto   Administrativo,  y  se  le  considerará  como  el
+      Solicitante  para  todos  los fines de esta Reglamentación, excepto
+      que  el  dominio será inscrito a nombre del que le haya encomendado
+      esta  representación.  De esta situación se deberá dejar constancia
+      expresa en la solicitud de inscripción del nombre de dominio.
+   8. Las  solicitudes de inscripción se recibirán exclusivamente por vía
+      electrónica,  ya  sea  a través del correo electrónico o el WWW. En
+      caso de que un tercero sirva como intermediario para la preparación
+      o  el  envío de la solicitud, esto no le conferirá ningún derecho a
+      ese tercero sobre el nombre de dominio.
+      Dado  que los sistemas de transmisión de mensajes en Internet están
+      sujetos   a   demoras   fortuitas  e  impredecibles,  corresponderá
+      exclusivamente  a  NIC  Chile  el  determinar  el  día y la hora de
+      recepción de cada solicitud.
+   9. No  se  admitirán  a  tramitación  solicitudes  de inscripción para
+      nombres  de  dominios que ya se encuentren inscritos en el Registro
+      de Nombres del Dominio CL.
+   De la publicidad y pago de las solicitudes
+  10. Una  vez  que la solicitud haya sido recibida por NIC Chile éste la
+      publicará dentro del plazo más breve que sea técnicamente factible,
+      y  en  todo caso dentro de los siguientes tres días hábiles, en una
+      lista  de  solicitudes  en trámite. Dicha solicitud se mantendrá en
+      esta  lista por un plazo de publicidad, el que será de 30 (treinta)
+      días  corridos  a  contar  de  la  publicación,  a  objeto  de  que
+      eventuales  interesados  tomen  conocimiento  y,  si  se  estimaren
+      afectados, puedan presentar sus propias solicitudes para ese nombre
+      de dominio.
+      No  obstante lo anterior, durante este período NIC Chile se reserva
+      el derecho de habilitar temporalmente el funcionamiento técnico del
+      nombre  de  dominio  solicitado,  a fin de que el Solicitante pueda
+      realizar   pruebas   técnicas   de  funcionamiento,  sin  que  ello
+      constituya  compromiso  de aceptar la solicitud presentada. En caso
+      de que haya más de una solicitud de inscripción en trámite para ese
+      nombre  de  dominio,  dicha  habilitación  sólo  podrá  autorizarse
+      respecto  de  aquella  solicitud  que  haya sido recibida en primer
+      lugar.
+      Cada  solicitante dispondrá de un plazo de pago de 20 (veinte) días
+      corridos  contados  desde la recepción de la solicitud para cumplir
+      con la obligación de pagar la tarifa respectiva.
+      Una vez recibido el pago y transcurrido el plazo de publicidad, NIC
+      Chile  procederá  a asignar el nombre dominio, salvo que existan en
+      ese momento dos o más solicitudes en trámite para ese nombre.
+  11. Para  cada  solicitud de inscripción recibida, NIC Chile enviará de
+      vuelta  por correo electrónico un comprobante de recepción de ésta.
+      Se  entenderá  domicilio válido para todas las comunicaciones desde
+      NIC  Chile  al  solicitante, la dirección de correo electrónico que
+      éste  haya  indicado  en  su solicitud de inscripción, siendo de su
+      exclusiva  responsabilidad  que  ella opere correctamente, así como
+      notificar cualquier cambio en dicha dirección.
+      NIC  Chile  proveerá  mecanismos para que el solicitante efectúe el
+      pago  de  la  tarifa,  entre  los  cuales  se  incluirá un aviso de
+      cobranza  que  el  solicitante  podrá imprimir. La imposibilidad de
+      imprimir  este aviso de cobranza no exime al solicitante de cumplir
+      oportunamente con esta obligación. En su defecto, podrá concurrir a
+      las oficinas de NIC Chile y obtener un duplicado.
+      Se  considerará  que un solicitante ha desistido de su solicitud si
+      al  final  del  respectivo  plazo  de  pago aún estuviera impaga la
+      tarifa, estando NIC Chile facultado para eliminarla de trámite.
+      En caso que la solicitud eliminada sea aquella que figure en primer
+      lugar  y  existan  una o más solicitudes todavía en trámite para el
+      mismo  dominio,  se considerará como primera para todos los efectos
+      reglamentarios  a  aquella  que  haya ingresado a trámite en primer
+      lugar.
+  12. Una  vez  que  haya expirado el plazo de publicidad de la solicitud
+      que  se  encuentre en primer lugar y que hayan recibido los pagos o
+      hayan  expirado  los  plazos  de  pago  de  todos y cada uno de los
+      solicitantes, si se encontraran en trámite dos o más solicitudes de
+      inscripción  para  ese  mismo  nombre  de  dominio,  se iniciará el
+      procedimiento  establecido  en  el  Anexo  I sobre PROCEDIMIENTO DE
+      MEDIACIÓN Y ARBITRAJE.
+      Por el sólo hecho de presentar su solicitud, todos los solicitantes
+      se  obligan  a  aceptar  el mecanismo de mediación y arbitraje para
+      solución de conflictos que se susciten en la inscripción de nombres
+      de  dominio,  a  acatar  su  resultado,  y a pagar los gastos y las
+      costas según lo determine el árbitro.
+      NIC Chile no tendrá ninguna participación en la etapa de arbitraje,
+      excepto designar al árbitro de acuerdo al procedimiento y acatar su
+      resolución.
+  13. NIC  Chile no incurrirá en responsabilidad de ninguna clase si, por
+      causa  del  dictamen arbitral, o de otra orden emanada de autoridad
+      competente,  debiese  suspender  la  inscripción  de  un  nombre de
+      dominio  o  tuviese  que  revocarla  o,  en  general,  dar  curso a
+      cualquier  instrucción  pertinente,  debiendo  el  interesado hacer
+      valer   sus   derechos   ante  la  autoridad  que  corresponda.  La
+      Universidad   de   Chile,   el   Departamento  de  Ciencias  de  la
+      Computación,  NIC  Chile,  y  sus  funcionarios  y  asesores quedan
+      liberados   anticipadamente   de  cualquier  responsabilidad  y  el
+      Solicitante renuncia expresamente a las acciones legales.
+  14. Será   de   responsabilidad   exclusiva   del  solicitante  que  su
+      inscripción  no  contraríe  las  normas  vigentes  sobre  abusos de
+      publicidad,  los  principios  de  la competencia leal y de la ética
+      mercantil,  como  asimismo,  derechos  válidamente  adquiridos  por
+      terceros.
+      NIC   Chile,   sin  estar  obligado  a  ello,  podrá  solicitar  el
+      pronunciamiento  de un árbitro, a costa del solicitante, de acuerdo
+      a las normas del Procedimiento de Mediación y Arbitraje del Anexo 1
+      de esta reglamentación, en aquellos casos que el dominio solicitado
+      vulnere   y  contraríe  ostensiblemente  las  normas  y  principios
+      descritos  en  el  inciso precedente. En este caso, se supenderá la
+      tramitación  del dominio solicitado hasta que se dicte la sentencia
+      correspondiente.
+      NIC  Chile  no será responsable de verificar la autenticidad de los
+      antecedentes  presentados  por  el Solicitante, y no tendrá ninguna
+      responsabilidad  por el uso que el Solicitante haga de un nombre de
+      dominio una vez inscrito en el Registro.
+  15. FUSIONADO CON ARTÍCULO 10.
+   De las Transferencias de Dominios
+  16. Los  derechos  que  emanan  de  la  presente  reglamentación  serán
+      transferibles  a  cualquier título, salvo prohibición en contrario.
+      Para darle curso se requerirá lo siguiente:
+        a. Para  el  caso  de  sucesión  por causa de muerte se requerirá
+           sentencia  de  posesión  efectiva  debidamente  inscrita  y el
+           nombre de dominio expresamente contenido en el Inventario.
+        b. Para el caso de acto entre vivos se requerirá:
+              o comunicación  escrita  por  parte  del asignatario actual
+                dirigida a NIC Chile, en el cual se identifique como tal,
+                con su RUT y firma, donde exprese su voluntad de traspaso
+                e  identifique al nuevo asignatario de dominio, el RUT de
+                éste,  y  una  casilla  de correo electrónico de contacto
+                para futuras comunicaciones, o bien
+              o contrato  privado  autorizado  ante  Notario  o Escritura
+                Pública,  en los que se haya dejado expresa constancia de
+                exhibicion   de   los  documentos  que  habilitan  a  los
+                comparecientes  en  él (escritura de personeria, contrato
+                de  mandato,  etc), con certificación de vigencia y demás
+                trámites que en derecho se requieran.
+      El  nuevo  titular  del  dominio  deberá  cumplir con el pago de la
+      tarifa como si estuviera solicitando la inscripción del dominio por
+      primera  vez.  Si  así  no  lo  hiciere dentro del plazo, NIC Chile
+      conservará la inscripción vigente.
+  17. NIC  Chile  archivará  los  documentos  de transferencia pero no le
+      incumbirá  su  examen  y  en  caso  alguno  podrá  rechazar ninguna
+      transferencia, circunstancia que el solicitante acepta desde ya sin
+      cargo   ni   reclamos,   quedando   irrevocablemente  liberados  de
+      responsabilidad   la  Universidad  de  Chile,  el  Departamento  de
+      Ciencias  de  la  Computación,  NIC  Chile  y  sus  funcionarios  o
+      asesores.
+   De las Eliminaciones de Dominios
+  18. Un nombre de dominio será eliminado ya sea a petición escrita de la
+      persona   que  solicitó  la  inscripción,  o  de  su  representante
+      debidamente   autorizado,   o   por   resolución  emitida  por  las
+      autoridades competentes.
+  19. DEROGADO.
+   De las Revocaciones de Dominios
+  20. Toda persona natural o jurídica que estime gravemente afectados sus
+      derechos  por la asignación de un nombre de dominio podrá solicitar
+      la  revocación  de esa inscripción, fundamentando su petición según
+      lo dispuesto en el artículo 21 de la presente reglamentación.
+  21. Para   los  efectos  de  solicitar  la  revocación  de  un  dominio
+      inscrito,será  necesario que el reclamante solicite a NIC Chile por
+      escrito,  la  revocación de dicho dominio, indicando los argumentos
+      en que se funda.
+      Recibida la solicitud de revocación, NIC Chile notificará de ésta a
+      las  partes involucradas, via correo electrónico. La tramitación de
+      una   solicitud   de  revocación  se  sujetará  a  las  reglas  del
+      procedimiento de MEDIACIÓN Y ARBITRAJE.
+  22. Será  causal  de  revocación  de  un  nombre  de  dominio el que su
+      inscripción sea abusiva, o que ella haya sido realizada de mala fe.
+      La  inscripción  de  un  nombre  de  dominio se considerará abusiva
+      cuando se cumplan las tres condiciones siguientes:
+        a. Que  el nombre de dominio sea idéntico o engañosamente similar
+           a  una  marca  de  producto  o  de servicio sobre la que tiene
+           derechos  el  reclamante,  o  a  un  nombre  por  el  cual  el
+           reclamante es reconocido.
+        b. Que  el  asignatario del nombre de dominio no tenga derechos o
+           intereses legítimos con respecto del nombre de dominio, y
+        c. Que  el  nombre  de dominio haya sido inscrito y se utilice de
+           mala fe.
+      La concurrencia de alguna de las siguientes circunstancias, sin que
+      su enunciación sea taxativa, servirá para evidenciar y demostrar la
+      mala fe del asignatario del dominio objetado:
+        a. Que  existan circunstancias que indiquen que se ha inscrito el
+           nombre  de  dominio  con  el  propósito principal de venderlo,
+           arrendarlo  u  otra  forma  de  transferir  la inscripción del
+           nombre  de  dominio  al  reclamante o a su competencia, por un
+           valor  excesivo  por  sobre los costos directos relativos a su
+           inscripción,  siendo  el reclamante el propietario de la marca
+           registrada del bien o servicio,
+        b. Que  se haya inscrito el nombre de dominio con la intención de
+           impedir al titular de la marca de producto o servicio reflejar
+           la  marca en el nombre de dominio correspondiente, siempre que
+           se  haya  establecido  por parte del asignatario del nombre de
+           dominio, esta pauta de conducta.
+        c. Que  se  haya  inscrito  el  nombre  de  dominio  con  el  fin
+           preponderante  de  perturbar  o  afectar  los  negocios  de la
+           competencia.
+        d. Que  usando el nombre de dominio, el asignatario de éste, haya
+           intentado  atraer  con fines de lucro a usuarios de Internet a
+           su  sitio  web  o  a  cualquier  otro  lugar en línea, creando
+           confusión con la marca del reclamante.
+      Sin  perjuicio  de  lo  previsto  en  los  párrafos  anteriores, la
+      concurrencia de alguna de las siguientes circunstancias, sin que su
+      enunciación  sea  taxativa, servirá para evidenciar y demostrar que
+      el asignatario del dominio objetado no ha actuado de mala fe:
+        a. Que   el   asignatario  del  dominio  demuestre  que  lo  está
+           utilizando,  o  haciendo preparaciones para utilizarlo, con la
+           intención  auténtica  de  ofrecer  bienes o servicios bajo ese
+           nombre,
+        b. Que  el  asignatario  del  nombre  de  dominio  sea comunmente
+           conocido  por  ese  nombre, aunque no sea titular de una marca
+           registrada con esa denominación, y
+        c. Que  el asignatario esté haciendo un uso legítimo no comercial
+           del  dominio ("fair use"), sin intento de obtener una ganancia
+           comercial, ni con el fin de confundir a los consumidores.
+      Si el resultado del procedimiento de mediación y arbitraje respecto
+      de  una  solicitud de revocación fuere favorable al reclamante, NIC
+      Chile  procederá  a  transferir  el  dominio  a  éste, quien deberá
+      cumplir  con  los  requisitos de asignación, esto es, el pago de la
+      tarifa  y el envío de la documentación respectiva, dentro del plazo
+      de 30 días. Si así no lo hiciere, el dominio será eliminado.
+      De las Modificaciones de esta Reglamentación
+  23. La  presente  Reglamentación podrá ser modificada o reemplazada las
+      veces  que  sea  necesario,  a  sólo  juicio de NIC Chile, quedando
+      obligado  desde  ya  el  usuario  a  acatar de inmediato las nuevas
+      normas que se fijen, sin reservas de ninguna naturaleza.
+
+                                  ANEXO 1
+
+                  Procedimiento de Mediación y Arbitraje
+
+   1. Los  conflictos  que  se  susciten en la inscripción, tramitación y
+      revocación  de nombres de dominio en el dominio CL se resolverán de
+      acuerdo a un procedimiento de mediación y arbitraje. En una primera
+      etapa, los conflictos se someterán al procedimiento de mediación, y
+      de  resultar  éste  infructuoso, se seguirá con el procedimiento de
+      arbitraje, caso en el cual las partes podrán designar un árbitro de
+      común  acuerdo,  o en su defecto, NIC Chile designará un árbitro de
+      una nómina que estará publicada en la página web de NIC Chile.
+   Del procedimiento de mediación
+   2. Una  vez  que  se  acredite  la  existencia  de  una disputa por la
+      inscripción  o por la revocación de un nombre de dominio, NIC Chile
+      procederá  a  notificar  a  las partes por correo electrónico. Esta
+      notificación incluirá:
+        a. La existencia del conflicto y el nombre de dominio en disputa.
+        b. La  identificación de las partes involucradas, incluyendo toda
+           la información para su contacto.
+        c. Una  referencia  a la presente reglamentación y a la solicitud
+           fundada de revocación, en su caso.
+        d. Citación  a  una audiencia de mediación, con día, hora y lugar
+           fijados para su celebración.
+      Las   partes   deberán  comparecer  personalmente,  pero  en  casos
+      calificados,  se  podrá  autorizar  la  participación de algunas de
+      ellas  vía  teleconferencia.  Se  entenderá  que no se ha llegado a
+      acuerdo  por  el sólo hecho que alguna de las partes no asista a la
+      audiencia.
+      La audiencia será moderada por un mediador designado por NIC Chile,
+      quien instará a las partes a llegar a un acuerdo, sin que le afecte
+      ningún tipo de inhabilidad que pueda ser reclamada por las partes.
+      De  lo  actuado en la audiencia se levantará un acta que consignará
+      lugar,  fecha,  hora, partes asistentes, acuerdo logrado o ausencia
+      de  acuerdo.  Esta acta deberá ser firmada por todos los presentes.
+      En  el caso de que alguno participe vía teleconferencia, el acta le
+      será  enviada  por  correo certificado, la cual deberá ser devuelta
+      firmada,  en  el  plazo  de  diez días hábiles, los que se contarán
+      desde el tercer dia de expedida el acta.
+      Si   el   resultado  de  la  audiencia  fuera  la  solución  de  la
+      controversia,  el  acta constituirá suficiente comunicación escrita
+      para  que NIC Chile proceda a efectuar la asignación definitiva del
+      dominio que originó el conflicto.
+      Del procedimiento de arbitraje
+   3. Si  en  la  audiencia  de mediación no se lograra la resolución del
+      conflicto,  en  el  acto  se consultará a las partes si acuerdan la
+      designación  de  un  árbitro.  En  caso  que  no  exista acuerdo al
+      respecto  o  bien en el caso de ausencia de una de ellas, NIC Chile
+      procederá a enviar una nómina de árbitros para que los solicitantes
+      puedan  tachar  a  un máximo de tres integrantes de ella dentro del
+      plazo de cinco días hábiles.
+   4. Habiéndose  efectuado  la tacha o bien, vencido el plazo para ello,
+      se  procederá entonces a designar a un árbitro por sorteo entre los
+      que no hayan sido tachados.
+   5. Si  con posterioridad el árbitro designado no aceptare o renunciara
+      a esta designación, se procederá a designar a otro por sorteo.
+   6. La  nómina  de  árbitros  será elaborada anualmente por NIC Chile y
+      quedará a disposición del público en la página web de NIC Chile.
+   7. Los  árbitros  tendrán  el carácter de "arbitrador", y en contra de
+      sus  resoluciones  no  procederá  recurso  alguno. El árbitro queda
+      especialmente  facultado  para resolver todo asunto relacionado con
+      su  competencia y jurisdicción incluyendo la fijación de las costas
+      del  arbitraje  y  la  forma de pago de ellas, sin perjuicio de los
+      dispuesto en el artículo 8°, párrafo final.
+   8. NIC  Chile notificará por correo electrónico al árbitro designado y
+      remitirá  junto  con la notificación todos los antecedentes para su
+      conocimiento   del  caso,  debiendo  éste  aceptar  o  rechazar  la
+      designación  dentro  del  décimo  día  hábil  desde  que  reciba la
+      notificación.  Si  el árbitro rechaza la designación, o no comunica
+      su aceptación a la Secretaría dentro del plazo antes referido, ésta
+      procederá a designar un nuevo árbitro por sorteo.
+      En  caso  de  aceptar,  el  árbitro  citará  a las partes por carta
+      certificada  a  una  audiencia  cuya  fecha no podrá ser, en ningún
+      caso,  posterior  a 20 días hábiles contados desde la expedición de
+      la  carta.  Asimismo,  deberá  enviar  por correo electrónico a NIC
+      Chile  y  las  partes  copia  idéntica  de  la  referida  carta  de
+      aceptación.
+      La  audiencia  se  celebrará  con la parte que asista y en ella las
+      partes  establecerán  en  conjunto  con  el  árbitro  designado, el
+      procedimiento  arbitral a seguir. En caso que las partes no lleguen
+      a un acuerdo en cuanto al procedimiento, o en caso de que una o más
+      de  ellas  no concurran a la audiencia, será el árbitro el que fije
+      el procedimiento.
+      Para el caso en que ninguna de las partes en conflicto comparezca a
+      la  audiencia,  el árbitro emitirá una resolución que ordene que el
+      dominio  en  disputa  se  asigne  al  primer  solicitante, o que se
+      mantenga su actual asignación, en caso de solicitud de revocación.
+      El árbitro, sin perjuicio de las pruebas ofrecidas por las partes y
+      de  las  decretadas  en  el  juicio  arbitral, podrá, de oficio o a
+      petición  de  parte, oficiar a NIC Chile para solicitar información
+      concerniente  a  los  nombres  de  dominio  de que es solicitante o
+      titular   cualquiera   de   las   partes  en  conflicto.  El  mismo
+      requerimiento  podrá  decretarse respecto de solicitudes de nombres
+      de dominio eliminadas de trámite.
+      Las costas del arbitraje serán compartidas por las partes que hayan
+      participado  del mismo exceptuando de ello al primer solicitante en
+      el  caso  de un conflicto por inscripción, o al actual asignatario,
+      en  un  conflicto  por revocación. Sin perjuicio de lo anterior, el
+      árbitro  podrá  condenar  al pago de la totalidad de las costas del
+      arbitraje, a aquél de los solicitantes que haya pedido el nombre de
+      dominio  rechazado  a inscripción en casos en que fuere evidente la
+      existencia  de  derechos  incompatibles  de  terceros por cualquier
+      causa,  en que tal solicitante haya actuado de mala fe, o en que el
+      árbitro determine que no ha tenido motivo alguno para litigar.
+   9. En  caso  de  muerte,  enfermedad  o  incapacidad sobreviniente del
+      árbitro  que  esté conociendo de un asunto, NIC Chile procederá con
+      la  designación  de  un  nuevo  árbitro  por sorteo. La incapacidad
+      sobreviniente  será  comunicada por el propio árbitro, o calificada
+      por NIC Chile.
+  10. El  árbitro  deberá  notificar  el  fallo  a  las  partes por carta
+      certificada  la  que  será  enviada  al  domicilio  que éstas hayan
+      designado  en  el  procedimiento arbitral, salvo que ellas hubieran
+      solicitado y el árbitro dispuesto su notificación por otros medios.
+      Respecto de NIC Chile deberá notificar la resolución que ordena dar
+      cumplimiento  a  lo  resuelto  mediante  el  envío de un mensaje de
+      correo electrónico firmado digitalmente.
+
+  Santiago, 1 de diciembre de 2008
+
+ NIC Chile-Departamento de Ciencias de la Computación-Universidad de Chile
+
+References
+
+  1. http://www.nic.cl/cartas/icann.html
+  2. http://www.rfc-es.org/rfc/rfc1591-es.txt
+  3. http://www.nic.cl/
+  4. http://www.nic.cl/anuncios/2001-08-20.html
+  5. http://www.nic.cl/aranceles.html
+  6. http://www.nic.cl/CL-sintaxis-IDN.html

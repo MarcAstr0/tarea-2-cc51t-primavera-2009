@@ -1,0 +1,106 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <link href="css/form.css" type="text/css" rel="stylesheet">
+    <title>Inscripción de nombre de dominio - NIC Chile</title>
+    <script type="text/javascript" src="js/funciones.js"></script>
+  </head>
+  <body>
+    <img src="logo-eslogan-R.png" alt="logo NIC" title="NIC" /><br /><br />
+    <form method="post" action="../cgi-bin/ingreso.pl" name="form">
+      <fieldset>
+        <p><label for="nombreDominio">Nombre de dominio</label>
+        <input name="nombreDominio" id="nombreDominio" size="63" maxlength="63" type="text"></p>
+        </fieldset>
+	<br />
+        <fieldset>
+        <legend>Datos Contacto Titular</legend>
+        <p><label for="rutTitular">RUT Titular</label>
+        <input size="10" maxlength="10" name="rutTitular" id="rutTitular" type="text"> - <input size="1" maxlength="1" name="digitoVerificadorTitular" id="digitoVerificadorTitular" type="text"></p>
+        <p><label for="nombreTitular">Nombre</label>
+        <input size="60" maxlength="200" name="nombreTitular" id="nombreTitular" type="text"></p>
+        <p><label for="emailTitular">Email Titular</label>
+        <input size="50" maxlength="200" name="emailTitular" id="emailTitular" type="text"></p>
+        <p><label for="calleTitular">Calle</label>
+        <input size="80" maxlength="200" name="calleTitular" id="calleTitular" type="text"></p>
+        <p><label for="numTitular">Número</label>
+        <input size="10" maxlength="15" name="numTitular" id="numTitular" type="text"></p>
+        <p><label for="regionTitular">Región</label>
+        <select name="regionTitular" id="regionTitular">
+        <script type="text/javascript">poblarRegiones('regionTitular');</script>
+        </select>
+        </p>
+        <p><label for="comunaTitular">Comuna</label>
+        <select name="comunaTitular" id="comunaTitular">
+        <script type="text/javascript">poblarComunas('comunaTitular');</script>
+        </select>
+        </p>
+        <label for="fonoTitular">Teléfono</label>
+        <input size="12" maxlength="20" name="fonoTitular" id="fonoTitular" type="text">
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Datos Contacto Facturación</legend>
+        <p><label for="rutTitular">RUT
+        Facturación</label>
+        <input size="10" maxlength="10" name="rutFactura" id="rutFactura" type="text"> - <input size="1" maxlength="1" name="digitoVerificadorFactura" id="digitoVerificadorFactura" type="text"></p>
+        <p><label for="razonFactura">Razón Social</label>
+        <input size="60" maxlength="200" name="razonFactura" id="razonFactura" type="text"></p>
+        <p><label for="giroFactura">Giro</label>
+        <input size="40" maxlength="200" name="giroFactura" id="giroFactura" type="text"></p>
+        <p><label for="emailFactura">Email envío factura</label>
+        <input size="50" maxlength="200" name="emailFactura" id="emailFactura" type="text"></p>
+        <p><label for="calleFactura">Calle</label>
+        <input size="80" maxlength="200" name="calleFactura" id="calleFactura" type="text"></p>
+        <p><label for="numFactura">Número</label>
+        <input size="10" maxlength="15" name="numFactura" id="numFactura" type="text"></p>
+        <p><label for="regionFactura">Región</label>
+        <select name="regionFactura" id="regionFactura"><script type="text/javascript">poblarRegiones('regionFactura');</script></select>
+        </p>
+        <p><label for="comunaFactura">Comuna</label>
+        <select name="comunaFactura" id="comunaFactura"><script type="text/javascript">poblarComunas('comunaFactura');</script></select>
+        </p>
+        <label for="fonoFactura">Teléfono</label>
+        <input size="12" maxlength="20" name="fonoFactura" id="fonoFactura" type="text">
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Datos Contacto Técnico</legend>
+        <p><label for="nombreTecnico">Nombre</label>
+        <input size="60" name="nombreTecnico" id="nombreTecnico" maxlength="200" type="text"></p>
+        <p><label for="emailTecnico">Email</label>
+        <input size="50" name="emailTecnico" id="emailTecnico" maxlength="200" type="text"></p>
+        <p><label for="calleTecnico">Calle</label>
+        <input size="80" name="calleTecnico" id="calleTecnico" maxlength="200" type="text"></p>
+        <p><label for="numTecnico">Número</label>
+        <input size="10" name="numTecnico" id="numTecnico" maxlength="15" type="text"></p>
+        <p><label for="regionTecnico">Región</label>
+        <select name="regionTecnico" id="regionTecnico"><script type="text/javascript">poblarRegiones('regionTecnico');</script></select>
+        </p>
+        <p><label for="comunaTecnico">Comuna</label>
+        <select name="comunaTecnico" id="comunaTecnico"><script type="text/javascript">poblarComunas('comunaTecnico');</script></select>
+        </p>
+        <p><label for="fonoTecnico">Teléfono</label>
+        <input size="12" name="fonoTecnico" id="fonoTecnico" maxlength="20" type="text">
+      </fieldset>
+      <br />
+      <fieldset>
+        <legend>Servidores DNS</legend>
+        <p><label for="servidorPrimario">Nombre servidor primario</label>
+        <input size="30" maxlength="100" name="servidorPrimario" id="servidorPrimario" type="text"></p>
+        <p><label for="servidorSecundario1">Nombre servidor secundario</label>
+        <input size="30" maxlength="100" name="servidorSecundario1" id="servidorSecundario1" type="text"></p>
+        <p><label for="servidorSecundario2">Nombre servidor secundario</label>
+        <input size="30" maxlength="100" name="servidorSecundario2" id="servidorSecundario2" type="text"></p>
+      </fieldset>
+      <br />
+      <div style="text-align: center;">
+        <iframe src="reglamentacion.txt" width="600"></iframe>
+        <p><input name="reglamento" id="reglamento" value="yes" type="checkbox"> Acepto la reglamentación presentada.</p>
+        <p><input value="Submit" type="submit"></p>
+      </div>
+    </form>
+    <a href='index.html'>Volver al menú principal</a>
+  </body>
+</html>

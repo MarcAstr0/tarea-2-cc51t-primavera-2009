@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+  <head>
+  <meta content="text/html; charset=ISO-8859-1" http-equiv="content-type">
+    <link href="css/form.css" type="text/css" rel="stylesheet">
+    <title>Búsqueda de dominios inscritos - NIC Chile</title>
+    <script type="text/javascript" src="js/funciones.js"></script>
+  </head>
+  <body>
+    <img src="logo-eslogan-R.png" alt="logo NIC" title="NIC" /><br /><br />
+    <form method="post" action="../cgi-bin/busqueda.pl" name="form">
+      Ingrese la palabra clave a buscar:<br />
+      <input size="63" maxlength="63" name="patron" id="patron" type="text"><br /><br />Tipo de búsqueda: 
+      <select name="tipo" id="tipo" >
+        <option value="contains">Contiene</option>
+        <option value="begins">Comienza con</option>
+        <option value="ends">Termina con</option>
+        <option value="exact">Exacta</option>
+      </select>
+      <p><input value="Submit" type="submit"></p>
+    </form>
+    <a href='index.html'>Volver al menú principal</a>
+  </body>
+</html>
